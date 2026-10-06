@@ -3,6 +3,8 @@ Todo List Web App
 A simple and interactive Todo List web application built using HTML, CSS, and JavaScript.
 This project focuses on mastering core JavaScript fundamentals such as arrays, loops, DOM manipulation, event handling, and state management.
 
+Link: https://chewangdev.github.io/to-do-list/
+
 🚀 Features
 
 ➕ Add new tasks
